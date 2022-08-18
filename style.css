@@ -1,0 +1,55 @@
+.Tr{
+    background-color: aqua;
+    width: 320px;
+    border: 2px solid rgb(0, 0, 0);
+    margin-left: 35%;
+     margin-top: 3%;
+     margin-bottom: 5%;
+ 
+    
+}
+
+
+
+.item1{
+    float: left;
+    background-color: rgb(0, 0, 0);
+    width: 300px;
+    border: 15px solid rgb(99, 255, 99);
+    padding: 50px;
+    margin: 20px;
+    margin-bottom: 5%;
+
+}
+
+.item2{
+    
+    float: right;
+    background-color: rgb(0, 0, 0);
+    width: 300px;
+    border: 15px solid rgb(99, 255, 99);
+    padding: 50px;
+    margin: 20px;
+    margin-bottom: 5%;
+}
+
+    
+
+h2{
+    text-align: right;
+    color: rgb(145, 255, 0);
+    width: 77%;
+   
+    
+}
+
+
+p{
+    text-align: center;
+    color: aliceblue;
+    
+    margin-top: 15%;
+    
+}
+
+
